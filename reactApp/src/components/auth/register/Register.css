@@ -1,0 +1,18 @@
+.register-wrapper {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-image: url(https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+}
+
+.register-form {
+    width: 300px;
+    border: 1px purple;
+    border-radius: 10px;
+    background-color: pink;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}

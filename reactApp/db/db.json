@@ -1,0 +1,113 @@
+{
+  "users": [
+    {
+      "id": "5ea2b9a9d9c1618573cd5c08",
+      "isActive": true,
+      "isAdmin": true,
+      "picture": "https://picsum.photos/200/300?random=1",
+      "age": "3243",
+      "name": "Roxanne RoXanne",
+      "email": "admin@admin.com",
+      "status": "Done",
+      "password": "mypass"
+    },
+    {
+      "id": "5ea2b9a94a1b7d4eb605131e",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=2",
+      "age": 40,
+      "name": "Pamela Anderson",
+      "email": "bigboobs.com",
+      "status": "Active",
+      "password": "boobies"
+    },
+    {
+      "id": "5ea2b9a939bbad67b304814f",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=3",
+      "age": 24,
+      "name": "Notan Admin",
+      "email": "nooo.com",
+      "status": "Done",
+      "password": "adminn't"
+    },
+    {
+      "id": "5ea2b9a939bbad67b3hh04814f",
+      "isActive": true,
+      "isAdmin": false,
+      "picture": "https://picsum.photos/200/300?random=4",
+      "age": 24,
+      "name": "Still Dre",
+      "email": "doodoonut.com",
+      "status": "Done",
+      "password": "SnoopDoggie"
+    }
+  ],
+  "notes": [
+    {
+      "title": "No",
+      "content": "I just can't take it anymore",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Pamela Anderson",
+      "date": "2020-05-29T09:54:16.922Z",
+      "id": 1,
+      "status": "Active"
+    },
+    {
+      "title": "No No",
+      "content": "GOODBYE EVERYONE",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Pamela Anderson",
+      "date": "2020-05-29T09:54:27.529Z",
+      "id": 2,
+      "status": "Done"
+    },
+    {
+      "title": "No no don't",
+      "content": "Jk",
+      "authorId": "5ea2b9a94a1b7d4eb605131e",
+      "authorName": "Pamela Anderson",
+      "date": "2020-05-29T10:08:06.832Z",
+      "id": 3,
+      "status": "Active"
+    },
+    {
+      "title": "This is my no no square",
+      "content": "I keep rollin rollin rollin",
+      "authorId": "dR5vnt5",
+      "authorName": "Pamela Anderson",
+      "date": "2020-05-29T10:16:55.082Z",
+      "id": 4,
+      "status": "Done"
+    },
+    {
+      "title": "Note",
+      "content": "Note, DeathNote",
+      "authorId": "dR5vnt5",
+      "authorName": "Notan Admin",
+      "date": "2020-05-29T10:17:14.790Z",
+      "id": 5,
+      "status": "Active"
+    },
+    {
+      "title": "Staap",
+      "content": "becky likes to chop it down low",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne RoXanne",
+      "date": "2020-05-29T10:28:07.388Z",
+      "status": "Done",
+      "id": 6
+    },
+    {
+      "title": "FInal test",
+      "content": "It's the final countDOOWN",
+      "authorId": "5ea2b9a9d9c1618573cd5c08",
+      "authorName": "Roxanne RoXane",
+      "date": "2020-05-29T10:38:55.708Z",
+      "status": "Done",
+      "id": 7
+    }
+  ]
+}
